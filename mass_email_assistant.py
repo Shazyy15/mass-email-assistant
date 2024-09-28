@@ -29,8 +29,8 @@ def create_email_entries():
 def send_email():
     try:
         # Sender details
-        sender_email = "rightcodetechnologies@gmail.com"
-        password = "ijuu gujz kojl xnrr"
+        sender_email = "myemail@gmail.com"
+        password = "mypass"
 
         # Get the subject and message body from user inputs
         subject = subject_entry.get()
