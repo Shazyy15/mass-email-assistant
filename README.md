@@ -58,17 +58,17 @@ To send emails via Gmail, follow these steps:
 Without 2FA (Two-factor authentication): Enable Less secure apps access.
 With 2FA Enabled: Create an App password via Google Account Security > App passwords.
 ## ⚙️ Usage Instructions
-> -1. Run the Application
+> - 1. Run the Application
 Open a terminal in the project directory and run the following command:
 
 
 python mass_email_assistant.py
-> -2. Fill in the Details
+> - 2. Fill in the Details
 Email Subject: Enter the subject of your email.
 Email Message: Type the message you want to send.
 Number of Recipients: Specify the number of people you want to email.
 Recipient Emails: Enter the recipient email addresses in the dynamically generated fields.
-> -3. Click "Send Email"
+> - 3. Click "Send Email"
 Once all the fields are filled in, simply hit the "Send Email" button. Your emails will be sent to all recipients via your Gmail account.
 
 ## 🎯 Project Structure
@@ -76,10 +76,10 @@ Here's a breakdown of the major components of the Mass Email Assistant:
 
 
 ## 💡 Future Improvements
-> -📬 Multiple Email Services: Add support for other email services (Yahoo, Outlook, etc.).
-> -📊 Email Analytics: Track emails sent, delivery status, and open rates.
-> -📋 CSV Import: Allow bulk import of email addresses from CSV files.
-> -🙌 Credits
+> - 📬 Multiple Email Services: Add support for other email services (Yahoo, Outlook, etc.).
+> - 📊 Email Analytics: Track emails sent, delivery status, and open rates.
+> - 📋 CSV Import: Allow bulk import of email addresses from CSV files.
+> - 🙌 Credits
 Developed and maintained by Shazil Shahid. If you encounter any issues or have suggestions, feel free to submit a pull request or create an issue on GitHub.
 
 ## 👏 Contributing
