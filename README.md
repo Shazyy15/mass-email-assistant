@@ -23,6 +23,7 @@ With **dynamic email field creation**, this tool enables you to enter a large nu
 
 ## 📸 Screenshots
 
+![screenshot](https://github.com/user-attachments/assets/d81367e9-da0d-42bf-abe9-79b093ca4cd7)
 
 
 ---
